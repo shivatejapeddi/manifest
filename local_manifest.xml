@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="shivatejapeddi/android_vendor_patcher" path="vendor/patcher" remote="github" />
+  <project name="shivatejapeddi/android_device_leeco_x2" path="device/leeco/x2" remote="github" />
+  <project name="shivatejapeddi/android_device_leeco_msm8996-common" path="device/leeco/msm8996-common" remote="github" />
+  <project name="shivatejapeddi/android_kernel_leeco_msm8996" path="kernel/leeco/msm8996" remote="github" />
+  <project name="shivatejapeddi/proprietary_vendor_leeco" path="vendor/leeco" remote="github" />
+</manifest>
